@@ -1,0 +1,11 @@
+V1	1	0
+R1	1	2	Symbolic
+R2	2	0	Symbolic
+R3	3	5	Symbolic
+R4	3	0	Symbolic
+R5	1	4	Symbolic
+R6	4	0	Symbolic
+R7	4	5	Symbolic
+C1	2	3	Symbolic
+C2	2	5	Symbolic
+Opamp	3	4	5	Ideal

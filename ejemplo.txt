@@ -1,0 +1,5 @@
+Vin	1	0 
+R1	1	2	Symbolic
+C1	2	3	Symbolic
+R2	2	3	Symbolic
+Oamp1	0	2	3	noideal
